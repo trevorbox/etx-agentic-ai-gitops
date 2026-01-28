@@ -10,7 +10,7 @@ spec:
     name: agent-service-build
   params:
     - name: GIT_REPO
-      value: "https://github.com/[YOUR_FORK_LOCATION]"
+      value: "https://github.com/trevorbox/etx-agentic-ai-gitops"
     - name: GIT_REVISION
       value: "main"
   workspaces:
